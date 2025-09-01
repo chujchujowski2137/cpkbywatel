@@ -14,7 +14,7 @@ if (date.getHours() >= 18){
 document.querySelector(".welcome").innerHTML = welcome;
 
 function toHome(){
-    location.href = '/FistaszjoObywatel/home?' + params;
+    location.href = '/obywatel/home?' + params;
 }
 
 var input = document.querySelector(".password_input");
@@ -73,3 +73,4 @@ eye.addEventListener('click', () => {
         input.value = original;
     }
 })
+
