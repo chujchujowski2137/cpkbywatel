@@ -119,7 +119,7 @@ function isEmpty(value) {
 }
 
 function forwardToId(params){
-    location.href = "/FistaszjoObywatel/id?" + params.toString();
+    location.href = "/obywatel/id?" + params.toString();
 }
 
 // Guide
@@ -127,4 +127,5 @@ var guide = document.querySelector(".guide_holder");
 guide.addEventListener('click', () => {
     guide.classList.toggle("unfolded");
 });
+
 
