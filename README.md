@@ -1,8 +1,4 @@
-## fistaszjoObwatel 4.2.0 
-
 Uwaga! Ten projekt służy jedynie jako pamiątka kolekcjonerska. Dawanie linku bez zgody właściciela jest zabronione.
-
-https://fistaszjo.github.io/FistaszjoObywatel/
 
 ### Instrukcja zainstalowania:
 #### Dla systemu IOS:
@@ -15,3 +11,4 @@ https://fistaszjo.github.io/FistaszjoObywatel/
 - Naciśji 3 kropki -> Dodaj do ekranu głównego
 
 Miłego chlania i jarania.
+FIXED 1
