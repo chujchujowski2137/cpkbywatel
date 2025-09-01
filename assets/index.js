@@ -40,7 +40,6 @@ document.querySelectorAll(".input_holder").forEach((element) => {
 
 upload.addEventListener('click', () => {
     imageInput.click();
-    upload.classList.remove("error_shown")
 });
 
 imageInput.addEventListener('change', (event) => {
@@ -153,4 +152,5 @@ guide.addEventListener('click', () => {
     }
 
 })
+
 
