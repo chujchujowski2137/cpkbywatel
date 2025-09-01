@@ -118,7 +118,7 @@ function isEmpty(value) {
     return /^\s*$/.test(value);
 }
 
-function forwardToId(params) {
+function forwardToId(params){
     location.href = "/FistaszjoObywatel/id?" + params.toString();
 }
 
@@ -127,3 +127,4 @@ var guide = document.querySelector(".guide_holder");
 guide.addEventListener('click', () => {
     guide.classList.toggle("unfolded");
 });
+
